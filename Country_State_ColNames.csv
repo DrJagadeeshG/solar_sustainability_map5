@@ -1,0 +1,13 @@
+Column,QGIS Naming Convention,LabelonDashboard
+Solar Irradiance,2Solar_Irra,Solar Irradiance
+Cropping Intensity(%),2CropInten,Cropping Intensity(%)
+Irrigation Intensity (%),2IrriInten,Irrigation Intensity (%)
+IWU (% of CWU),2IWU_CWU,IWU (% of CWU)
+Elect(%),2Elect,Elect(%)
+GW_dev_stage (%),2GW_dev,GW_dev_stage (%)
+Surface water area (km2)-%,2SWArea,Surface water area (km2)-%
+Cultivated land (%),2Cul-Land,Cultivated land (%)
+Electricity Subsidy,2El.Subsidy,Electricity Subsidy
+GW share irr (% of IWU),2GW_share,GW share irr (% of IWU)
+WL (m),2WL_m,WL (m)
+Small& Marginal % Holdings,2S_M_Holds,Small& Marginal % Holdings

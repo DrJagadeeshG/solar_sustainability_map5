@@ -1,0 +1,24 @@
+Column,QGIS Naming Convention,LabelonDashboard
+Cultivated land (%),1Cult_land1,Cultivated land (%)
+Cropping Intensity(%),1Crop_Int,Cropping Intensity(%)
+Irrigation Intensity (%),1Irrig_Inte,Irrigation Coverage (%)
+IWU (% of CWU),1IWU,Irrigation Water Requirement (% of CWU)
+Text-Crop,1Text-Crop,
+GW share irr (% of IWU),1GW_Irr_Sh,GW irrigation (%)
+GW_dev_stage (%),1GW_Dev,GW development (%)
+Number of SW bodies,1no_of_SWB,SW bodies (#)
+Surface water area (km2)-%,1SW_body,SW bodies (% of district area)
+Text-Water,1Text-Water,
+Elect(%),1ElectPtg,Electric pumps (%)
+Diesel (%),1DieselPtg,Diesel pumps (%)
+Electricity Tariff,1el_Tariff,Electricity Tariff (paisa/kWH)
+Text-Energy,1Text-Energy,
+Small& Marginal % Holdings,1S_M_Hold,Small& Marginal Holdings (%)
+Avg Area per holding (ALLGrps),1ALLGrps,Avg. farmer area (ha)
+Avg. No. of Parcel per holdings (Allgrps),1ALLGrpsNo,Avg. number of parcels
+Text-Farmer,1Text-Farm,
+DISCOM Name,1DISCOMNam,Name 
+DISCOM Rating,1DISCOMRat,Integrated rating
+Feeder segregation,1Feederseg,> 80 % feeder segregated
+Text-Utilty,1Text-Util,
+Text-Model,1Text-Model,

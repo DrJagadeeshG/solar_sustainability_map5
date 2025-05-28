@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Solar Sustainability Map</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="#home">
+                <img src="IWMI_logo.png" alt="IWMI Logo">
+                Solar Sustainability Map
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#home">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#dashboard">Dashboard</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#about">About Us</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="feedback-embedded.html">Feedback</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Home Section -->
+    <section id="home" class="hero-section">
+        <div class="container">
+            <div class="row align-items-center min-vh-100">
+                <div class="col-lg-6 hero-content">
+                    <h1 class="hero-title">
+                        Solar Sustainability Mapping Platform
+                    </h1>
+                    <p class="hero-subtitle">
+                        Explore solar energy potential and sustainability metrics across different regions with our interactive dashboard powered by advanced geospatial analysis and cutting-edge research.
+                    </p>
+                    <div class="hero-buttons">
+                        <a href="#dashboard" class="btn btn-light btn-lg">
+                            <i class="fas fa-chart-line"></i>
+                            View Dashboard
+                        </a>
+                        <a href="#about" class="btn btn-outline-light btn-lg">
+                            <i class="fas fa-info-circle"></i>
+                            Learn More
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="hero-image">
+                        <img src="SolarSustainability.png" alt="Solar Sustainability Visualization" class="img-fluid">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Dashboard Section -->
+    <section id="dashboard" class="py-5 bg-light">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Interactive Dashboard</h2>
+                <p class="section-subtitle">
+                    Access our comprehensive solar sustainability mapping tool with advanced analytics and real-time data visualization
+                </p>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="card shadow-lg border-0">
+                        <div class="card-body p-4">
+                            <div class="text-center mb-4">
+                                <i class="fas fa-external-link-alt fa-3x text-primary mb-3"></i>
+                                <h4>Solar Sustainability Map Dashboard</h4>
+                                <p class="text-muted">
+                                    Explore interactive maps, analyze solar potential, and discover sustainability insights
+                                </p>
+                            </div>
+                            <div class="d-grid">
+                                <a href="https://solarsustainabilitymap4.streamlit.app/" 
+                                   target="_blank" 
+                                   class="btn btn-primary btn-lg">
+                                    <i class="fas fa-rocket me-2"></i>
+                                    Launch Dashboard
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Us Section -->
+    <section id="about" class="py-5">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">About Us</h2>
+                <p class="section-subtitle">
+                    Learn about our organization and the dedicated team behind this innovative project
+                </p>
+            </div>
+            
+            <!-- IWMI Section -->
+            <div class="row mb-5">
+                <div class="col-lg-6 mb-4">
+                    <div class="card h-100 border-0 shadow">
+                        <div class="card-body p-4">
+                            <div class="text-center mb-3">
+                                <i class="fas fa-water fa-3x text-primary mb-3"></i>
+                                <h4>International Water Management Institute (IWMI)</h4>
+                            </div>
+                            <p class="text-muted">
+                                IWMI is a non-profit, scientific research organization focusing on the sustainable use of water and land resources in developing countries. We work to improve the lives of poor people by providing evidence-based solutions to sustainably manage water and land resources.
+                            </p>
+                            <div class="mt-3">
+                                <h6>Key Focus Areas:</h6>
+                                <ul class="list-unstyled">
+                                    <li><i class="fas fa-check text-success me-2"></i>Water, climate change and resilience</li>
+                                    <li><i class="fas fa-check text-success me-2"></i>Water Data Science</li>
+                                    <li><i class="fas fa-check text-success me-2"></i>Water, food and ecosystems</li>
+                                    <li><i class="fas fa-check text-success me-2"></i>Water, growth and inclusion</li>
+                                </ul>
+                            </div>
+                            <div class="text-center mt-4">
+                                <a href="https://www.iwmi.org" target="_blank" class="btn btn-outline-primary">
+                                    <i class="fas fa-external-link-alt me-2"></i>
+                                    Visit IWMI Website
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Faiz Alam Section -->
+                <div class="col-lg-6 mb-4">
+                    <div class="card h-100 border-0 shadow">
+                        <div class="card-body p-4">
+                            <div class="text-center mb-3">
+                                <i class="fas fa-user-graduate fa-3x text-primary mb-3"></i>
+                                <h4>Faiz Alam</h4>
+                                <p class="text-muted">Regional Researcher</p>
+                            </div>
+                            <p class="text-muted">
+                                Faiz is a Regional Researcher at IWMI's Delhi office, specializing in agricultural water management and environmental engineering. He holds a bachelor's degree in civil engineering from IIT India and a master's in environmental engineering from KTH Royal Institute of Technology, Sweden.
+                            </p>
+                            <div class="mt-3">
+                                <h6>Areas of Expertise:</h6>
+                                <ul class="list-unstyled">
+                                    <li><i class="fas fa-leaf text-success me-2"></i>Agricultural water management</li>
+                                    <li><i class="fas fa-tint text-success me-2"></i>Hydrology & groundwater management</li>
+                                    <li><i class="fas fa-globe text-success me-2"></i>Global spatial data analysis</li>
+                                    <li><i class="fas fa-code text-success me-2"></i>Python programming</li>
+                                </ul>
+                            </div>
+                            <div class="text-center mt-4">
+                                <a href="https://www.iwmi.org/people/faiz-alam/" target="_blank" class="btn btn-outline-primary">
+                                    <i class="fas fa-external-link-alt me-2"></i>
+                                    View Profile
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-dark text-white py-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h5>Solar Sustainability Map</h5>
+                    <p class="text-muted">
+                        Powered by IWMI - International Water Management Institute
+                    </p>
+                </div>
+                <div class="col-md-6 text-md-end">
+                    <p class="text-muted">
+                        © 2025 IWMI. All rights reserved.
+                    </p>
+                    <div class="social-links">
+                        <a href="https://www.iwmi.org" target="_blank" class="text-white me-3">
+                            <i class="fas fa-globe"></i>
+                        </a>
+                        <a href="https://github.com/DrJagadeeshG/solar_sustainability_map.io" target="_blank" class="text-white">
+                            <i class="fab fa-github"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html> 

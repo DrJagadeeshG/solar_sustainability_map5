@@ -1,0 +1,668 @@
+District,Adapt_new,Mitigate_new,Replace_new,Combine,Commnity_SIP
+Thoubal,Very High,Low,Very Low,Adaptation,
+Bokaro,Very High,High,Low,Adaptation + Mitigation,
+Senapati,Very High,Low,Very Low,Adaptation,
+Ukhrul,Very High,Very Low,Very Low,Adaptation,
+Saraikela-kharsawan,Very High,Low,Very Low,Adaptation,
+Aizawl,Very High,Low,Very Low,Adaptation,
+Bargarh,Very High,Very Low,Low,Adaptation,
+Bishnupur,Very High,Moderate,Low,Adaptation,
+Lawangtlai,Very High,Very Low,Very Low,Adaptation,
+Lunglei,Very High,Very Low,Very Low,Adaptation,
+Saiha,Very High,Very Low,Very Low,Adaptation,
+Jalna,Very High,Very High,Moderate,Adaptation + Mitigation,
+Jorhat,Very High,Moderate,Very Low,Adaptation,
+Narayanpur,Moderate,Very Low,Very Low,,
+Tamenglong,Very High,Very Low,Very Low,Adaptation,
+Jamtara,High,Moderate,Very Low,Adaptation,
+Khunti,High,High,Low,Adaptation + Mitigation,
+Lohardaga,High,High,Low,Adaptation + Mitigation,
+Mamit,Very High,Very Low,Very Low,Adaptation,
+Sambalpur,Very High,Very Low,Low,Adaptation,
+Serchhip,Very High,Very Low,Very Low,Adaptation,
+Tinsukia,Very High,Very Low,Very Low,Adaptation,
+Nandurbar,High,Moderate,Low,Adaptation,
+Kalahandi,Very High,Moderate,Low,Adaptation,
+Malkangiri,Very High,Very Low,Very Low,Adaptation,
+East Khasi Hills,Very High,Low,Very Low,Adaptation,
+Kolasib,High,Very Low,Very Low,Adaptation,
+Namsai,High,Very Low,Very Low,Adaptation,
+Nuapada,Very High,Very Low,Very Low,Adaptation,
+Pashchimi Singhbhum,Moderate,Very Low,Very Low,,
+Sundargarh,Very High,Very Low,Very Low,Adaptation,
+West Kameng,High,Very Low,Very Low,Adaptation,
+Bid,Very High,Very High,Very High,All,
+Balangir,Very High,Low,Very Low,Adaptation,
+Chandrapur,Very High,Very Low,Low,Adaptation,
+Latehar,Moderate,Moderate,Very Low,,
+Tirap,Moderate,Very Low,Very Low,,
+Lower Subansiri,Moderate,Very Low,Very Low,,
+Nanded,Very High,High,Moderate,Adaptation + Mitigation,
+North Goa,Very High,Very Low,Low,Adaptation,
+Pune,Very High,High,Very High,All,
+Ranchi,Very High,High,Low,Adaptation + Mitigation,
+Rayagada,Very High,Low,Very Low,Adaptation,
+South West Khasi Hills,High,Very Low,Very Low,Adaptation,
+Zunheboto,High,Very Low,Very Low,Adaptation,
+Anantapur,High,Low,Moderate,Adaptation,
+Bagalkot,Moderate,High,Moderate,Mitigation,
+Belgaum,Moderate,Very High,Low,Mitigation,
+Chandel,Very High,Very Low,Very Low,Adaptation,
+Harda,Moderate,High,Moderate,Mitigation,
+Parbhani,Very High,High,Very High,All,
+Raichur,Very High,Low,Moderate,Adaptation,
+West Garo Hills,High,Very Low,Very Low,Adaptation,
+Anjaw,Moderate,Very Low,Very Low,,
+Aurangabad-M,High,Very High,Very High,All,
+Bellary,High,Very High,Low,Adaptation + Mitigation,
+Gadag,Moderate,Low,High,GW Sustainability,
+Karaikal,High,Moderate,Moderate,Adaptation,
+Koppal,High,Low,High,Adaptation + GW Sustainability,
+Kurnool,High,Moderate,Moderate,Adaptation,
+Nabarangapur,Very High,Very Low,Very Low,Adaptation,
+Nagpur,High,High,Low,Adaptation + Mitigation,
+Papum Pare,Moderate,Very Low,Very Low,,
+Ri Bhoi,High,Very Low,Very Low,Adaptation,
+Rohtak,Moderate,Low,High,GW Sustainability,
+Solapur,Moderate,Low,High,GW Sustainability,
+South West Garo Hills,Moderate,Low,Very Low,,
+Yadgir,High,Low,Moderate,Adaptation,
+Ahmadnagar,High,Moderate,High,Adaptation + GW Sustainability,
+Dimapur,Moderate,Very Low,Very Low,,
+Hanumangarh,Moderate,Low,Moderate,,
+Kiphire,Moderate,Very Low,Very Low,,
+Longleng,Moderate,Very Low,Very Low,,
+Mahbubnagar,High,Moderate,Very High,Adaptation + GW Sustainability,
+Prakasam,High,Low,Moderate,Adaptation,
+Raigarh-C,Moderate,Very Low,Low,,
+Valsad,High,Moderate,High,Adaptation + GW Sustainability,
+Hingoli,High,Very High,Moderate,Adaptation + Mitigation,
+Osmanabad,Very High,Moderate,High,Adaptation + GW Sustainability,
+Davanagere,Moderate,Very Low,High,GW Sustainability,
+Lakhimpur,Moderate,Moderate,Very Low,,
+Nalgonda,High,Moderate,High,Adaptation + GW Sustainability,
+South Sikkim,No Data,No Data,No Data,No Data,
+Upper Subansiri,Low,Very Low,Very Low,,
+West Sikkim,No Data,No Data,No Data,No Data,
+Akola,High,High,Moderate,Adaptation + Mitigation,
+Barmer,Very Low,High,Moderate,Mitigation,
+Gulbarga,Very High,Moderate,Low,Adaptation,
+Hoshangabad,Low,High,Moderate,Mitigation,
+Jaisalmer,Very Low,Very Low,Moderate,,
+Longding,Low,Very Low,Very Low,,
+Mon,Moderate,Very Low,Very Low,,
+Nashik,High,High,High,All,
+Palghar,No Data,No Data,No Data,No Data,
+Panch Mahals,High,Moderate,Moderate,Adaptation,
+Phek,Moderate,Very Low,Very Low,,
+South Garo Hills,Moderate,Low,Very Low,,
+Tapi,High,Moderate,Low,Adaptation,
+Tuensang,Moderate,Very Low,Very Low,,
+Upper Siang,Low,Very Low,Very Low,,
+Wardha,High,Low,Moderate,Adaptation,
+Washim,Moderate,Low,High,GW Sustainability,
+West Khasi Hills,Low,Very Low,Very Low,,
+Wokha,Moderate,Very Low,Very Low,,
+Lower Dibang Valley,Low,Very Low,Very Low,,
+Dharwad,High,Low,Moderate,Adaptation,
+Dhule,High,Moderate,High,Adaptation + GW Sustainability,
+Garhchiroli,Moderate,Very Low,Low,,
+Hisar,Very Low,High,High,Mitigation + GW Sustainability,
+Jhajjar,Very Low,High,High,Mitigation + GW Sustainability,
+Kota,Moderate,Very High,Very High,Mitigation + GW Sustainability,
+Raisen,Low,Moderate,High,GW Sustainability,
+Surat,Moderate,Moderate,High,GW Sustainability,
+Vidisha,Low,Moderate,High,GW Sustainability,
+Bauda,Very High,Very Low,Very Low,Adaptation,
+Buldana,Moderate,High,High,Mitigation + GW Sustainability,
+East Siang,Low,Very Low,Very Low,,
+Jaintia Hills,Low,Very Low,Very Low,,
+Kohima,Moderate,Very Low,Very Low,,
+Kurung Kumey,Low,Very Low,Very Low,,
+Mokokchung,Low,Very Low,Very Low,,
+Navsari,High,High,Moderate,Adaptation + Mitigation,
+Tumkur,Low,Low,High,GW Sustainability,
+Y.S.R.,Moderate,Moderate,Moderate,,
+Amravati,Moderate,Moderate,Moderate,,
+Bharuch,Moderate,Moderate,High,GW Sustainability,
+Bikaner,Low,Moderate,Moderate,,
+East Nimar,Low,High,High,Mitigation + GW Sustainability,
+Gumla,Low,Very Low,Low,,
+Haveri,Low,Moderate,Very High,GW Sustainability,
+Latur,High,High,Very High,All,
+West Nimar,Moderate,High,High,Mitigation + GW Sustainability,
+West Siang,Low,Very Low,Very Low,,
+Yavatmal,High,Low,Low,Adaptation,
+Shimoga,High,Moderate,High,Adaptation + GW Sustainability,
+Adilabad,Moderate,Moderate,High,GW Sustainability,
+Aligarh,Very Low,Very High,Very High,Mitigation + GW Sustainability,
+Amreli,Moderate,High,Very High,Mitigation + GW Sustainability,
+Bhavnagar,Moderate,High,High,Mitigation + GW Sustainability,
+Bidar,Low,High,Moderate,Mitigation,
+Botad,Moderate,High,Moderate,Mitigation,
+Chhota Udaipur,Moderate,Very High,High,Mitigation + GW Sustainability,
+Chitradurga,Very Low,Low,Very High,GW Sustainability,
+Guna,Low,Very High,High,Mitigation + GW Sustainability,
+Lohit,Moderate,Very Low,Very Low,,
+Palwal,Moderate,High,Very High,Mitigation + GW Sustainability,
+Rajkot,Low,Moderate,High,GW Sustainability,
+Ranga Reddy,Moderate,High,Very High,Mitigation + GW Sustainability,
+Kheda,Moderate,Very High,Very High,Mitigation + GW Sustainability,
+Jalgaon,Moderate,Moderate,High,GW Sustainability,
+Khammam,Moderate,High,Moderate,Mitigation,
+Bhopal,Low,High,Very High,Mitigation + GW Sustainability,
+Burhanpur,Very Low,High,High,Mitigation + GW Sustainability,
+Churu,Very Low,Moderate,Moderate,,
+Dahod,Moderate,High,High,Mitigation + GW Sustainability,
+Devbhumi Dwarka,Very Low,High,High,Mitigation + GW Sustainability,
+Ganganagar,Low,Moderate,Moderate,,
+Jamnagar,Low,High,Moderate,Mitigation,
+Mewat,Very Low,Moderate,Very High,GW Sustainability,
+Morbi,Low,Very High,High,Mitigation + GW Sustainability,
+Nagaur,Low,Low,Very High,GW Sustainability,
+Narmada,Low,Moderate,Moderate,,
+Sabar Kantha,Very Low,Very High,High,Mitigation + GW Sustainability,
+Sehore,Very Low,High,High,Mitigation + GW Sustainability,
+Sirsa,Very Low,Low,Very High,GW Sustainability,
+Surendranagar,Low,High,High,Mitigation + GW Sustainability,
+Fatehabad,Very Low,Moderate,Very High,GW Sustainability,
+Gir Somnath,Low,Very High,High,Mitigation + GW Sustainability,
+Jind,Very Low,Moderate,Very High,GW Sustainability,
+West,Very Low,Moderate,Very High,GW Sustainability,
+Chikmagalur,Moderate,Very Low,Low,,
+East Sikkim,No Data,No Data,No Data,No Data,
+Bhiwani,Very Low,High,Very High,Mitigation + GW Sustainability,
+Junagadh,Very Low,Very High,Very High,Mitigation + GW Sustainability,
+Vadodara,Low,High,Very High,Mitigation + GW Sustainability,
+Erode,Low,Moderate,Very High,GW Sustainability,
+Baran,Very Low,High,High,Mitigation + GW Sustainability,
+Gandhinagar,Low,Very High,Very High,Mitigation + GW Sustainability,
+Jalor,Very Low,Low,Very High,GW Sustainability,
+Jhunjhunun,Very Low,Moderate,Very High,GW Sustainability,
+Jodhpur,Very Low,Low,Very High,GW Sustainability,
+Kodagu,Moderate,Low,Low,,
+Panchkula,Very Low,High,Very High,Mitigation + GW Sustainability,
+Peren,Low,Very Low,Very Low,,
+Porbandar,Very Low,Very High,Very High,Mitigation + GW Sustainability,
+The Dangs,Low,Moderate,Low,,
+Ambala,Very Low,Low,Very High,GW Sustainability,
+Sonipat,Very Low,Moderate,Very High,GW Sustainability,
+Gurgaon,Very Low,High,Very High,Mitigation + GW Sustainability,
+Kaithal,Very Low,Very High,Very High,Mitigation + GW Sustainability,
+Panipat,Very Low,High,Very High,Mitigation + GW Sustainability,
+Barnala,Very Low,Very High,Very High,Mitigation + GW Sustainability,
+Bijapur-K,Low,Very Low,Low,,
+Kachchh,Very Low,Moderate,Moderate,,
+Mahendragarh,Very Low,High,Very High,Mitigation + GW Sustainability,
+Patan,Very Low,High,Very High,Mitigation + GW Sustainability,
+Ahmadabad,Very Low,High,High,Mitigation + GW Sustainability,
+Fazilka,Very Low,Low,High,GW Sustainability,
+Karnal,Very Low,High,Very High,Mitigation + GW Sustainability,
+Kurukshetra,Very Low,High,Very High,Mitigation + GW Sustainability,
+Rewari,Very Low,High,Very High,Mitigation + GW Sustainability,
+Mahesana,Very Low,Very High,Very High,Mitigation + GW Sustainability,
+North Sikkim,No Data,No Data,No Data,No Data,
+Faridabad,Very Low,High,Very High,Mitigation + GW Sustainability,
+Faridkot,Very Low,Low,High,GW Sustainability,
+Bathinda,Very Low,Low,Very High,GW Sustainability,
+Firozpur,Very Low,Low,Very High,GW Sustainability,
+Mansa,Very Low,High,High,Mitigation + GW Sustainability,
+Muktsar,Low,Moderate,Moderate,,
+Patiala,Very Low,High,Very High,Mitigation + GW Sustainability,
+Pathankot,Very Low,Low,Moderate,,
+Banas Kantha,Very Low,Very High,Very High,Mitigation + GW Sustainability,
+Gurdaspur,Very Low,Low,Very High,GW Sustainability,
+Rupnagar,Very Low,Very High,High,Mitigation + GW Sustainability,
+Amritsar,Very Low,High,Very High,Mitigation + GW Sustainability,
+Ludhiana,Very Low,Moderate,Very High,GW Sustainability,
+Sangrur,Very Low,High,Very High,Mitigation + GW Sustainability,
+Hoshiarpur,Very Low,Low,Very High,GW Sustainability,
+Kapurthala,Very Low,Low,Very High,GW Sustainability,
+Tarn Taran,Very Low,Low,Very High,GW Sustainability,
+Jalandhar,Very Low,High,Very High,Mitigation + GW Sustainability,
+Fatehgarh Sahib,Very Low,High,Very High,Mitigation + GW Sustainability,
+Moga,Very Low,High,Very High,Mitigation + GW Sustainability,
+Shahid Bhagat Singh Nagar,Very Low,Low,Very High,GW Sustainability,
+Sahibzada Ajit Singh Nagar,Very Low,Very Low,Very High,GW Sustainability,
+Palghar,No Data,No Data,No Data,No Data,
+Aurangabad,Very High,Very High,Low,Adaptation + Mitigation,Community SIP
+Churachandpur,Very High,Low,Very Low,Adaptation,Community SIP
+Hailakandi,Very High,Moderate,Low,Adaptation,Community SIP
+Imphal East,Very High,Low,Very Low,Adaptation,Community SIP
+Godda,Very High,Moderate,Low,Adaptation,Community SIP
+Imphal West,Very High,Moderate,Very Low,Adaptation,Community SIP
+Madhubani,Very High,Very High,Moderate,Adaptation + Mitigation,Community SIP
+Chatra,Very High,High,Moderate,Adaptation + Mitigation,Community SIP
+Hazaribagh,High,High,Very Low,Adaptation + Mitigation,Community SIP
+Arwal,High,Very High,Moderate,Adaptation + Mitigation,Community SIP
+Banka,High,High,Moderate,Adaptation + Mitigation,Community SIP
+Bankura,Very High,Moderate,Low,Adaptation,Community SIP
+Bhojpur,High,Very High,Moderate,Adaptation + Mitigation,Community SIP
+Birbhum,Very High,High,Moderate,Adaptation + Mitigation,Community SIP
+Cachar,Very High,Very Low,Very Low,Adaptation,Community SIP
+Gaya,High,Very High,Low,Adaptation + Mitigation,Community SIP
+Gopalganj,Very High,Very High,Moderate,Adaptation + Mitigation,Community SIP
+Jhabua,Very High,High,Moderate,Adaptation + Mitigation,Community SIP
+Kodarma,High,High,Moderate,Adaptation + Mitigation,Community SIP
+Sivasagar,Very High,Very Low,Very Low,Adaptation,Community SIP
+Surguja,High,Moderate,Low,Adaptation,Community SIP
+Darjiling,Very High,Low,Very Low,Adaptation,Community SIP
+Darrang,Very High,Very Low,Very Low,Adaptation,Community SIP
+Karimganj,Very High,Low,Very Low,Adaptation,Community SIP
+Morigaon,Very High,Moderate,Very Low,Adaptation,Community SIP
+Cuttack,Very High,Moderate,Very Low,Adaptation,Community SIP
+Ganjam,Very High,Moderate,Low,Adaptation,Community SIP
+Golaghat,Very High,Very Low,Very Low,Adaptation,Community SIP
+Kolhapur,Very High,Low,Low,Adaptation,Community SIP
+Madhepura,Moderate,Moderate,Low,,Community SIP
+Raigarh,Very High,Very Low,Low,Adaptation,Community SIP
+Udalguri,Very High,Very Low,Very Low,Adaptation,Community SIP
+Uttar Bastar Kanker,Moderate,Low,Very Low,,Community SIP
+Vizianagaram,Very High,Low,Moderate,Adaptation,Community SIP
+Araria,Moderate,Very High,Low,Mitigation,Community SIP
+Ariyalur,High,Very High,Low,Adaptation + Mitigation,Community SIP
+Banswara,Very High,High,Low,Adaptation + Mitigation,Community SIP
+Bhandara,Very High,Moderate,Low,Adaptation,Community SIP
+Buxar,High,Very High,Moderate,Adaptation + Mitigation,Community SIP
+Champhai,Very High,Very Low,Very Low,Adaptation,Community SIP
+Jamui,High,Moderate,Low,Adaptation,Community SIP
+Kendujhar,Very High,Very Low,Very Low,Adaptation,Community SIP
+Krishna,Very High,High,High,All,Community SIP
+Nadia,Moderate,High,High,Mitigation + GW Sustainability,Community SIP
+Purbi Singhbhum,High,High,Low,Adaptation + Mitigation,Community SIP
+Purnia,Moderate,Very High,Moderate,Mitigation,Community SIP
+Rohtas,Moderate,High,Low,Mitigation,Community SIP
+Shahdol,High,Moderate,Low,Adaptation,Community SIP
+Sheikhpura,Moderate,Very High,High,Mitigation + GW Sustainability,Community SIP
+Siwan,Moderate,High,Moderate,Mitigation,Community SIP
+South 24 Parganas,Very High,Moderate,Low,Adaptation,Community SIP
+Yanam,Very High,Low,Very Low,Adaptation,Community SIP
+Anugul,High,Low,Low,Adaptation,Community SIP
+Balaghat,High,Moderate,Moderate,Adaptation,Community SIP
+Baloda Bazar,High,Low,Low,Adaptation,Community SIP
+Banda,High,Very High,Low,Adaptation + Mitigation,Community SIP
+Gariaband,High,Very Low,Moderate,Adaptation,Community SIP
+Jharsuguda,Very High,Very Low,Very Low,Adaptation,Community SIP
+Lalitpur,Moderate,High,Low,Mitigation,Community SIP
+Mahasamund,High,Very Low,Low,Adaptation,Community SIP
+Palamu,Moderate,Moderate,Low,,Community SIP
+Puruliya,Very High,Very Low,Low,Adaptation,Community SIP
+Srikakulam,Very High,Moderate,Moderate,Adaptation,Community SIP
+Ajmer,High,Moderate,Very High,Adaptation + GW Sustainability,Community SIP
+Alirajpur,High,Moderate,Low,Adaptation,Community SIP
+Dima Hasao,High,Very Low,Very Low,Adaptation,Community SIP
+Dindori,High,Low,Low,Adaptation,Community SIP
+Dumka,Moderate,Low,Low,,Community SIP
+East Garo Hills,High,Very Low,Very Low,Adaptation,Community SIP
+Goalpara,High,Very Low,Very Low,Adaptation,Community SIP
+Guntur,High,Moderate,Low,Adaptation,Community SIP
+Hamirpur-UP,Low,Moderate,Low,,Community SIP
+Haora,Very High,High,Low,Adaptation + Mitigation,Community SIP
+Jajapur,High,Very Low,Low,Adaptation,Community SIP
+Kamrup,High,Moderate,Very Low,Adaptation,Community SIP
+Koraput,Very High,Low,Very Low,Adaptation,Community SIP
+Mandla,Very High,Low,Low,Adaptation,Community SIP
+Nagaon,High,Low,Low,Adaptation,Community SIP
+North Garo Hills,Very High,Very Low,Very Low,Adaptation,Community SIP
+Pashchim Champaran,Low,High,Low,Mitigation,Community SIP
+Sitamarhi,Low,Very High,Very High,Mitigation + GW Sustainability,Community SIP
+Supaul,Moderate,High,Low,Mitigation,Community SIP
+Gondiya,Very High,Low,Low,Adaptation,Community SIP
+Mahe,High,High,Low,Adaptation + Mitigation,Community SIP
+Patna,Low,High,Low,Mitigation,Community SIP
+Sahibganj,Moderate,Low,Very Low,,Community SIP
+Sangli,Very High,Moderate,High,Adaptation + GW Sustainability,Community SIP
+Saran,Low,Very High,Moderate,Mitigation,Community SIP
+Singrauli,Moderate,Moderate,Moderate,,Community SIP
+Anuppur,High,Low,Low,Adaptation,Community SIP
+Balrampur,Moderate,Very Low,Low,,Community SIP
+Bastar,High,Very Low,Low,Adaptation,Community SIP
+Jalaun,Moderate,High,Moderate,Mitigation,Community SIP
+Khordha,Very High,Very Low,Very Low,Adaptation,Community SIP
+Nayagarh,Very High,Very Low,Low,Adaptation,Community SIP
+Baksa,High,Moderate,Very Low,Adaptation,Community SIP
+Balod,High,Very Low,Moderate,Adaptation,Community SIP
+Bhadrak,Very High,Very Low,Low,Adaptation,Community SIP
+Chirang,High,Low,Very Low,Adaptation,Community SIP
+Debagarh,Very High,Very Low,Very Low,Adaptation,Community SIP
+Dhanbad,High,Very Low,Low,Adaptation,Community SIP
+Dhenkanal,High,Very Low,Very Low,Adaptation,Community SIP
+Dibrugarh,High,Low,Very Low,Adaptation,Community SIP
+Garhwa,Moderate,Low,Low,,Community SIP
+Hassan,Very High,Low,High,Adaptation + GW Sustainability,Community SIP
+Jalpaiguri,High,Low,Very Low,Adaptation,Community SIP
+Kaimur,Low,High,Moderate,Mitigation,Community SIP
+Kendrapara,High,Very Low,Very Low,Adaptation,Community SIP
+Kishanganj,Low,High,Low,Mitigation,Community SIP
+Korba,Moderate,Very Low,Very Low,,Community SIP
+Mysore,High,Low,Low,Adaptation,Community SIP
+Nalanda,Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+North and Middle Andaman,High,Very Low,Very Low,Adaptation,Community SIP
+Pakur,High,Low,Low,Adaptation,Community SIP
+Purba Champaran,Low,High,Moderate,Mitigation,Community SIP
+Puri,High,Very Low,Low,Adaptation,Community SIP
+Ramban,High,Low,Very Low,Adaptation,Community SIP
+Saharsa,Low,Very High,Moderate,Mitigation,Community SIP
+Satara,Very High,Moderate,High,Adaptation + GW Sustainability,Community SIP
+Sonbhadra,Moderate,Moderate,Low,,Community SIP
+South Goa,Very High,Low,Moderate,Adaptation,Community SIP
+Umaria,High,High,High,All,Community SIP
+Wayanad,Very High,Low,Moderate,Adaptation,Community SIP
+Bongaigaon,High,High,Very Low,Adaptation + Mitigation,Community SIP
+Champawat,High,Moderate,Very Low,Adaptation,Community SIP
+Dantewada,Moderate,Very Low,Very Low,,Community SIP
+Kondagaon,Moderate,Very Low,Very Low,,Community SIP
+Lahul & Spiti,Low,Very Low,Very Low,,Community SIP
+Mahoba,Low,Moderate,Moderate,,Community SIP
+Nalbari,High,Moderate,Low,Adaptation,Community SIP
+South Andaman,Very High,Very Low,Low,Adaptation,Community SIP
+East Godavari,High,Moderate,Moderate,Adaptation,Community SIP
+Mungeli,High,Moderate,High,Adaptation + GW Sustainability,Community SIP
+Pathanamthitta,Very High,Low,Low,Adaptation,Community SIP
+Balrampur-UP,Moderate,Moderate,Low,,Community SIP
+Bandipore,Very High,Low,Low,Adaptation,Community SIP
+Darbhanga,Low,High,High,Mitigation + GW Sustainability,Community SIP
+Deoria,Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+Dhubri,High,Moderate,Very Low,Adaptation,Community SIP
+Gorakhpur,Low,Very High,Low,Mitigation,Community SIP
+Jashpur,Moderate,Very Low,Low,,Community SIP
+Jhansi,Low,High,Moderate,Mitigation,Community SIP
+Kamrup Metropolitan,Moderate,Very Low,Very Low,,Community SIP
+Khowai,Very High,Very Low,Low,Adaptation,Community SIP
+Kullu,High,Very Low,Very Low,Adaptation,Community SIP
+Maharajganj,Moderate,Very High,Moderate,Mitigation,Community SIP
+Mandi,Moderate,Very Low,Very Low,,Community SIP
+Munger,Low,High,Low,Mitigation,Community SIP
+Muzaffarpur,Low,High,Moderate,Mitigation,Community SIP
+Rajouri,High,Low,Very Low,Adaptation,Community SIP
+Seoni,Moderate,High,Low,Mitigation,Community SIP
+Sheohar,Very Low,Very High,Moderate,Mitigation,Community SIP
+Siddharth Nagar,Moderate,Very High,Moderate,Mitigation,Community SIP
+Simdega,Low,Very Low,Low,,Community SIP
+Sonitpur,Moderate,Low,Very Low,,Community SIP
+Tawang,High,Very Low,Very Low,Adaptation,Community SIP
+The Nilgiris,High,Very Low,Low,Adaptation,Community SIP
+Thiruvananthapuram,Very High,Moderate,Low,Adaptation,Community SIP
+Unokoti,Very High,Very Low,Low,Adaptation,Community SIP
+Alipurduar,Moderate,High,Very Low,Mitigation,Community SIP
+Auraiya,Moderate,Very High,High,Mitigation + GW Sustainability,Community SIP
+Badgam,Moderate,High,Very Low,Mitigation,Community SIP
+Begusarai,Very Low,High,Moderate,Mitigation,Community SIP
+Bhagalpur,Moderate,Moderate,Moderate,,Community SIP
+Bilaspur,Moderate,Very Low,Low,,Community SIP
+Chamoli,Moderate,Low,Low,,Community SIP
+Deoghar,Moderate,Low,Low,,Community SIP
+Janjgir-Champa,Moderate,Low,Moderate,,Community SIP
+Karbi Anglong,Moderate,Very Low,Very Low,,Community SIP
+Khagaria,Very Low,High,Moderate,Mitigation,Community SIP
+Kokrajhar,Moderate,Low,Low,,Community SIP
+Kottayam,Very High,Low,Low,Adaptation,Community SIP
+Kulgam,High,High,Very Low,Adaptation + Mitigation,Community SIP
+Lakhisarai,Low,Very High,Low,Mitigation,Community SIP
+Mandya,High,Moderate,Moderate,Adaptation,Community SIP
+Mayurbhanj,High,Very Low,Very Low,Adaptation,Community SIP
+Murshidabad,Low,High,High,Mitigation + GW Sustainability,Community SIP
+Nawada,Low,High,Low,Mitigation,Community SIP
+Nellore,High,High,Moderate,Adaptation + Mitigation,Community SIP
+Pratapgarh-UP,Low,Moderate,Moderate,,Community SIP
+Pulwama,High,High,Low,Adaptation + Mitigation,Community SIP
+Rajnandgaon,Moderate,Very Low,Moderate,,Community SIP
+Ratnagiri,High,Very Low,Low,Adaptation,Community SIP
+Reasi,High,Very Low,Very Low,Adaptation,Community SIP
+Rewa,Low,High,Very High,Mitigation + GW Sustainability,Community SIP
+Shupiyan,High,Low,Low,Adaptation,Community SIP
+Sidhi,Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+Sindhudurg,Very High,Low,Low,Adaptation,Community SIP
+Surajpur,Moderate,Very Low,Low,,Community SIP
+Tehri Garhwal,High,Low,Low,Adaptation,Community SIP
+Uttarkashi,Moderate,Low,Low,,Community SIP
+Visakhapatnam,High,Very Low,Low,Adaptation,Community SIP
+Alappuzha,High,Low,Low,Adaptation,Community SIP
+Baleshwar,High,Low,Low,Adaptation,Community SIP
+Baramulla,Very High,Very Low,Low,Adaptation,Community SIP
+Bareilly,Very Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+Basti,Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+Bemetara,High,High,Very High,All,Community SIP
+Chennai,Very Low,Very Low,Low,,Community SIP
+Chitrakoot,Low,High,Moderate,Mitigation,Community SIP
+Chittoor,Moderate,Moderate,Moderate,,Community SIP
+Dakshin Dinajpur,High,Very High,High,All,Community SIP
+Dhalai,High,Very Low,Low,Adaptation,Community SIP
+Dhemaji,Moderate,Very Low,Very Low,,Community SIP
+Durg,Low,Low,High,GW Sustainability,Community SIP
+Ernakulam,Very High,Very Low,Low,Adaptation,Community SIP
+Etah,Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+Jagatsinghapur,High,Very Low,Low,Adaptation,Community SIP
+Jammu,High,Moderate,Low,Adaptation,Community SIP
+Kabeerdham,Low,Moderate,Low,,Community SIP
+Kannur,High,Moderate,Low,Adaptation,Community SIP
+Kanpur Nagar,Low,Very High,Moderate,Mitigation,Community SIP
+Kozhikode,High,Low,Low,Adaptation,Community SIP
+Kupwara,Very High,Very Low,Very Low,Adaptation,Community SIP
+Mainpuri,Very Low,Very High,Moderate,Mitigation,Community SIP
+Maldah,High,Moderate,High,Adaptation + GW Sustainability,Community SIP
+Pilibhit,Low,Very High,Moderate,Mitigation,Community SIP
+Rae Bareli,Low,Very High,Moderate,Mitigation,Community SIP
+Raipur,Moderate,Low,Moderate,,Community SIP
+Ramanagara,Moderate,Low,High,GW Sustainability,Community SIP
+Samastipur,Very Low,Very High,Moderate,Mitigation,Community SIP
+Sitapur,Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+South Tripura,High,Very Low,Low,Adaptation,Community SIP
+Srinagar,Moderate,Low,Low,,Community SIP
+Sultanpur,Moderate,Very High,Very High,Mitigation + GW Sustainability,Community SIP
+Thoothukkudi,Very High,Moderate,High,Adaptation + GW Sustainability,Community SIP
+Tiruchirappalli,High,Moderate,Very High,Adaptation + GW Sustainability,Community SIP
+Tirunelveli,High,Moderate,Moderate,Adaptation,Community SIP
+Udhampur,Moderate,Low,Very Low,,Community SIP
+West Godavari,Moderate,High,High,Mitigation + GW Sustainability,Community SIP
+Anand,Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+Ashoknagar,Moderate,Very High,High,Mitigation + GW Sustainability,Community SIP
+Bangalore Rural,Low,Low,High,GW Sustainability,Community SIP
+Barpeta,Moderate,Low,Low,,Community SIP
+Barwani,Low,Low,High,GW Sustainability,Community SIP
+Betul,Moderate,Low,Moderate,,Community SIP
+Bhind,Low,High,High,Mitigation + GW Sustainability,Community SIP
+Bijapur,Low,Very Low,Very Low,,Community SIP
+East Kameng,Low,Very Low,Very Low,,Community SIP
+Etawah,Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+Farrukhabad,Very Low,Very High,Very High,Mitigation + GW Sustainability,Community SIP
+Gwalior,Low,High,Moderate,Mitigation,Community SIP
+Kanpur Dehat,Very Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+Kinnaur,Moderate,Very Low,Very Low,,Community SIP
+Kolkata,No Data,No Data,No Data,No Data,Community SIP
+Koriya,Low,Very Low,Very Low,,Community SIP
+Nicobar Islands,High,Very Low,Very Low,Adaptation,Community SIP
+North Tripura,High,Very Low,Very Low,Adaptation,Community SIP
+Panna,Moderate,Low,Moderate,,Community SIP
+Ramgarh,Moderate,Low,Low,,Community SIP
+Rudraprayag,Moderate,Moderate,Very Low,,Community SIP
+Satna,Moderate,Moderate,Very High,GW Sustainability,Community SIP
+Shimla,Moderate,Very Low,Low,,Community SIP
+Sirmaur,Low,Moderate,Low,,Community SIP
+Budaun,Very Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+Giridih,Very Low,High,Very Low,Mitigation,Community SIP
+Mumbai Suburban,No Data,No Data,No Data,No Data,Community SIP
+Perambalur,Moderate,Low,High,GW Sustainability,Community SIP
+Bahraich,Moderate,Moderate,Moderate,,Community SIP
+Bundi,Low,High,Moderate,Mitigation,Community SIP
+Jehanabad,Very Low,High,Moderate,Mitigation,Community SIP
+Narsimhapur,Low,High,Very High,Mitigation + GW Sustainability,Community SIP
+Thiruvarur,Very High,Very High,High,All,Community SIP
+Tonk,Moderate,High,Very High,Mitigation + GW Sustainability,Community SIP
+Amethi,Low,Very High,Moderate,Mitigation,Community SIP
+Bageshwar,Moderate,Moderate,Very Low,,Community SIP
+Ballia,Low,Very High,Moderate,Mitigation,Community SIP
+Bijnor,Very Low,Very High,Moderate,Mitigation,Community SIP
+Bilaspur-HP,Moderate,Very Low,Low,,Community SIP
+Chamba,Low,Very Low,Very Low,,Community SIP
+Dungarpur,High,Moderate,High,Adaptation + GW Sustainability,Community SIP
+Fatehpur,Very Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+Gajapati,High,Low,Very Low,Adaptation,Community SIP
+Gomati,High,Very Low,Low,Adaptation,Community SIP
+Hardoi,Low,Very High,Moderate,Mitigation,Community SIP
+Idukki,High,Very Low,Low,Adaptation,Community SIP
+Jabalpur,Low,High,Very High,Mitigation + GW Sustainability,Community SIP
+Kandhamal,High,Very Low,Very Low,Adaptation,Community SIP
+Kangra,Low,Very Low,Low,,Community SIP
+Kanniyakumari,Very High,High,Moderate,Adaptation + Mitigation,Community SIP
+Kishtwar,Moderate,Very Low,Very Low,,Community SIP
+Kollam,High,Very Low,Low,Adaptation,Community SIP
+Malappuram,High,Very Low,Moderate,Adaptation,Community SIP
+Mirzapur,Low,High,Moderate,Mitigation,Community SIP
+Morena,Low,High,Very High,Mitigation + GW Sustainability,Community SIP
+Mumbai City,No Data,No Data,No Data,No Data,Community SIP
+Namakkal,Very Low,High,High,Mitigation + GW Sustainability,Community SIP
+Poonch,High,Very Low,Very Low,Adaptation,Community SIP
+Ramanathapuram,Very High,High,Moderate,Adaptation + Mitigation,Community SIP
+Sambhal,Low,High,High,Mitigation + GW Sustainability,Community SIP
+Sant Ravi Das Nagar,Very Low,Very High,Moderate,Mitigation,Community SIP
+Subarnapur,Very High,Low,Low,Adaptation,Community SIP
+Thane,High,Low,Low,Adaptation,Community SIP
+Thanjavur,Moderate,High,Very High,Mitigation + GW Sustainability,Community SIP
+Unnao,Very Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+Varanasi,Very Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+West Tripura,High,Low,Low,Adaptation,Community SIP
+Bangalore,Very Low,Low,Moderate,,Community SIP
+Bhilwara,Moderate,High,Very High,Mitigation + GW Sustainability,Community SIP
+Datia,Low,High,Very High,Mitigation + GW Sustainability,Community SIP
+Dhar,Low,High,Very High,Mitigation + GW Sustainability,Community SIP
+Pali,Moderate,Very Low,High,GW Sustainability,Community SIP
+Sagar,Low,High,High,Mitigation + GW Sustainability,Community SIP
+Sukma,Low,Very Low,Very Low,,Community SIP
+Azamgarh,Very Low,Very High,Moderate,Mitigation,Community SIP
+Barabanki,Very Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+Bulandshahr,Very Low,Very High,Very High,Mitigation + GW Sustainability,Community SIP
+Chandauli,Low,Very High,Moderate,Mitigation,Community SIP
+Ghazipur,Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+Hamirpur,Low,Very Low,Low,,Community SIP
+Hardwar,Very Low,Very High,Moderate,Mitigation,Community SIP
+Kasganj,Very Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+Kushinagar,Low,High,Moderate,Mitigation,Community SIP
+Lakhimpur Kheri,Low,Very High,Moderate,Mitigation,Community SIP
+Mau,Very Low,Very High,Moderate,Mitigation,Community SIP
+Nagappattinam,High,Moderate,High,Adaptation + GW Sustainability,Community SIP
+Palakkad,High,Very Low,Moderate,Adaptation,Community SIP
+Saharanpur,Very Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+Shahjahanpur,Moderate,High,Very High,Mitigation + GW Sustainability,Community SIP
+Agar Malwa,Low,Very High,Very High,Mitigation + GW Sustainability,Community SIP
+Amroha,Very Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+Baghpat,Very Low,Very High,Very High,Mitigation + GW Sustainability,Community SIP
+Changlang,Moderate,Very Low,Very Low,,Community SIP
+Chhindwara,Low,Moderate,High,GW Sustainability,Community SIP
+Damoh,Very Low,Moderate,High,GW Sustainability,Community SIP
+Dewas,Low,Very High,Very High,Mitigation + GW Sustainability,Community SIP
+Dhamtari,Very Low,Very Low,Low,,Community SIP
+Garhwal,Moderate,Very Low,Low,,Community SIP
+Hathras,Very Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+Hugli,Moderate,Very High,High,Mitigation + GW Sustainability,Community SIP
+Jaipur,Very Low,High,Very High,Mitigation + GW Sustainability,Community SIP
+Kancheepuram,Moderate,Moderate,High,GW Sustainability,Community SIP
+Karimnagar,Moderate,High,Very High,Mitigation + GW Sustainability,Community SIP
+Katihar,Very Low,High,Moderate,Mitigation,Community SIP
+Katni,Low,High,Very High,Mitigation + GW Sustainability,Community SIP
+Kolar,Low,Moderate,Very High,GW Sustainability,Community SIP
+Mahisagar,Moderate,High,High,Mitigation + GW Sustainability,Community SIP
+Mathura,Very Low,High,High,Mitigation + GW Sustainability,Community SIP
+Muzaffarnagar,Very Low,Very High,Very High,Mitigation + GW Sustainability,Community SIP
+Nainital,Very Low,High,Moderate,Mitigation,Community SIP
+Neemuch,Very Low,High,Very High,Mitigation + GW Sustainability,Community SIP
+Nizamabad,Low,Very High,Very High,Mitigation + GW Sustainability,Community SIP
+Pratapgarh,Low,Very Low,High,GW Sustainability,Community SIP
+Puducherry,Low,Very High,Very High,Mitigation + GW Sustainability,Community SIP
+Pudukkottai,High,High,High,All,Community SIP
+Rampur,Very Low,Very High,Very High,Mitigation + GW Sustainability,Community SIP
+Salem,Very Low,High,High,Mitigation + GW Sustainability,Community SIP
+Sant Kabir Nagar,Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+Shamli,Very Low,Very High,Very High,Mitigation + GW Sustainability,Community SIP
+Sheopur,Very Low,High,High,Mitigation + GW Sustainability,Community SIP
+Shivpuri,Very Low,Moderate,High,GW Sustainability,Community SIP
+Shravasti,Moderate,Moderate,Moderate,,Community SIP
+Sikar,Low,High,Very High,Mitigation + GW Sustainability,Community SIP
+Sirohi,Low,High,Very High,Mitigation + GW Sustainability,Community SIP
+Sivaganga,Moderate,Low,Moderate,,Community SIP
+Tikamgarh,Very Low,Moderate,Very High,GW Sustainability,Community SIP
+Tiruvannamalai,Low,High,Very High,Mitigation + GW Sustainability,Community SIP
+Udupi,Moderate,Low,Moderate,,Community SIP
+Ujjain,Very Low,High,Very High,Mitigation + GW Sustainability,Community SIP
+Una,Very Low,High,Moderate,Mitigation,Community SIP
+Uttar Dinajpur,Moderate,High,Low,Mitigation,Community SIP
+Vaishali,Very Low,Moderate,High,GW Sustainability,Community SIP
+Virudunagar,High,Moderate,High,Adaptation + GW Sustainability,Community SIP
+Doda,High,Very Low,Very Low,Adaptation,Community SIP
+Krishnagiri,Very Low,Moderate,High,GW Sustainability,Community SIP
+Medak,Moderate,Very High,High,Mitigation + GW Sustainability,Community SIP
+North 24 Parganas,Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+Purba Medinipur,High,Moderate,High,Adaptation + GW Sustainability,Community SIP
+Rajsamand,Low,Low,High,GW Sustainability,Community SIP
+Udaipur,Moderate,Moderate,Very High,GW Sustainability,Community SIP
+Ratlam,Very Low,Moderate,Very High,GW Sustainability,Community SIP
+Shajapur,Low,High,Very High,Mitigation + GW Sustainability,Community SIP
+Allahabad,Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+Ambedkar Nagar,Very Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+Anantnag,Moderate,Low,Moderate,,Community SIP
+Dadra and Nagar Haveli,Low,Low,Low,,Community SIP
+Dindigul,Very Low,Very Low,High,GW Sustainability,Community SIP
+Faizabad,Very Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+Hapur,Very Low,Very High,Very High,Mitigation + GW Sustainability,Community SIP
+Jaunpur,Very Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+Kannauj,Very Low,Very High,Very High,Mitigation + GW Sustainability,Community SIP
+Karur,Low,High,High,Mitigation + GW Sustainability,Community SIP
+Kathua,Moderate,Very Low,Low,,Community SIP
+Leh (Ladakh),No Data,No Data,No Data,No Data,Community SIP
+Lucknow,Very Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+Madurai,High,High,High,All,Community SIP
+Meerut,Very Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+Pithoragarh,Moderate,Very Low,Low,,Community SIP
+Samba,Moderate,Very Low,Low,,Community SIP
+Sipahijala,High,Low,Low,Adaptation,Community SIP
+Thiruvallur,Low,Moderate,High,GW Sustainability,Community SIP
+Thrissur,Moderate,Low,Moderate,,Community SIP
+Uttara Kannada,Moderate,Low,Moderate,,Community SIP
+Warangal,Low,High,Very High,Mitigation + GW Sustainability,Community SIP
+Bharatpur,Very Low,Very High,Very High,Mitigation + GW Sustainability,Community SIP
+Chhatarpur,Very Low,High,Very High,Mitigation + GW Sustainability,Community SIP
+Chittaurgarh,Very Low,Moderate,Very High,GW Sustainability,Community SIP
+Jhalawar,Moderate,High,Very High,Mitigation + GW Sustainability,Community SIP
+Mandsaur,Very Low,Moderate,Very High,GW Sustainability,Community SIP
+Rajgarh,Low,Moderate,Very High,GW Sustainability,Community SIP
+Almora,Moderate,Very Low,Low,,Community SIP
+Cuddalore,Moderate,Very High,Very High,Mitigation + GW Sustainability,Community SIP
+Dehradun,Low,Moderate,Moderate,,Community SIP
+Firozabad,Very Low,High,Very High,Mitigation + GW Sustainability,Community SIP
+Ghaziabad,Very Low,Very High,Very High,Mitigation + GW Sustainability,Community SIP
+Gonda,Very Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+Udham Singh Nagar,Very Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+Viluppuram,Moderate,Moderate,Very High,GW Sustainability,Community SIP
+Chikballapura,Very Low,Low,Very High,GW Sustainability,Community SIP
+Dakshina Kannada,Low,High,Low,Mitigation,Community SIP
+Daman,High,Very Low,Moderate,Adaptation,Community SIP
+Dausa,Very Low,High,Very High,Mitigation + GW Sustainability,Community SIP
+Dharmapuri,Very Low,Moderate,High,GW Sustainability,Community SIP
+Kargil,No Data,No Data,No Data,No Data,Community SIP
+Koch Bihar,High,Moderate,Moderate,Adaptation,Community SIP
+Lakshadweep,Low,Very Low,Low,,Community SIP
+Aravalli,Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+Indore,Very Low,Moderate,Very High,GW Sustainability,Community SIP
+Ganderbal,Moderate,Low,High,GW Sustainability,Community SIP
+Kasaragod,Low,Moderate,High,GW Sustainability,Community SIP
+Agra,Very Low,Very High,Very High,Mitigation + GW Sustainability,Community SIP
+Moradabad,Very Low,Very High,Very High,Mitigation + GW Sustainability,Community SIP
+Pashchim Medinipur,Low,Moderate,Very High,GW Sustainability,Community SIP
+Sawai Madhopur,Very Low,Moderate,Very High,GW Sustainability,Community SIP
+Solan,Very Low,Very Low,Moderate,,Community SIP
+Theni,Very Low,High,Very High,Mitigation + GW Sustainability,Community SIP
+Tiruppur,Very Low,Very Low,High,GW Sustainability,Community SIP
+Hyderabad,No Data,No Data,No Data,No Data,Community SIP
+Kaushambi,Very Low,Very High,High,Mitigation + GW Sustainability,Community SIP
+Alwar,Very Low,Very High,Very High,Mitigation + GW Sustainability,Community SIP
+Chamrajnagar,Low,Low,Moderate,,Community SIP
+Coimbatore,Very Low,Low,Very High,GW Sustainability,Community SIP
+Diu,Very Low,High,Very High,Mitigation + GW Sustainability,Community SIP
+Karauli,Very Low,Very Low,Very High,GW Sustainability,Community SIP
+Vellore,Very Low,Low,Very High,GW Sustainability,Community SIP
+Gautam Buddha Nagar,Very Low,Moderate,Very High,GW Sustainability,Community SIP
+Chandigarh,Very Low,Low,Very High,GW Sustainability,Community SIP
+Dhaulpur,Very Low,High,Very High,Mitigation + GW Sustainability,Community SIP
+Yamunanagar,Very Low,Moderate,Very High,GW Sustainability,Community SIP
+Barddhaman,Moderate,No Data,No Data,,Community SIP
+Dibang Valley,Low,No Data,No Data,,Community SIP
