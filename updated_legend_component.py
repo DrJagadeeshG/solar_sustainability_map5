@@ -40,7 +40,7 @@ def get_category_colors(category):
             "GW Sustainability": "#43A047",                              # Green 600
             "Adaptation + Mitigation": "#FF6F00",                        # Orange A700
             "Adaptation + GW Sustainability": "#D32F2F",                 # Red 700
-            "Mitigation + GW Sustainability": "#F57C00",                 # Orange 700
+            "Mitigation + GW Sustainability": "#8D6E63",                 # Brown 400 (distinct from orange)
             "Combined": "#6A1B9A",                                       # Purple 800
             "All": "#00BCD4",                                            # Cyan 500 (bright and distinct)
             "No Data": "#757575",                                        # Grey 600
