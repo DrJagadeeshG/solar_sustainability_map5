@@ -8,40 +8,41 @@ def get_category_colors(category):
     """
     color_mappings = {
         "Adapt": {
-            "Very Low": "#FF1744",      # Red A400
-            "Low": "#FF5722",           # Deep Orange 500
-            "Moderate": "#FF9800",      # Orange 500
-            "High": "#2196F3",          # Blue 500
             "Very High": "#0D47A1",     # Blue 900
+            "High": "#2196F3",          # Blue 500
+            "Moderate": "#FF9800",      # Orange 500
+            "Low": "#FF5722",           # Deep Orange 500
+            "Very Low": "#FF1744",      # Red A400
             "No Data": "#757575",       # Grey 600
         },
         
         "Mitigate": {
-            "Very Low": "#FF1744",      # Red A400
-            "Low": "#FF5722",           # Deep Orange 500
-            "Moderate": "#FF9800",      # Orange 500
-            "High": "#2196F3",          # Blue 500
             "Very High": "#0D47A1",     # Blue 900
+            "High": "#2196F3",          # Blue 500
+            "Moderate": "#FF9800",      # Orange 500
+            "Low": "#FF5722",           # Deep Orange 500
+            "Very Low": "#FF1744",      # Red A400
             "No Data": "#757575",       # Grey 600
         },
         
         "Replace": {
-            "Very Low": "#FF1744",      # Red A400
-            "Low": "#FF5722",           # Deep Orange 500
-            "Moderate": "#FF9800",      # Orange 500
-            "High": "#2196F3",          # Blue 500
             "Very High": "#0D47A1",     # Blue 900
+            "High": "#2196F3",          # Blue 500
+            "Moderate": "#FF9800",      # Orange 500
+            "Low": "#FF5722",           # Deep Orange 500
+            "Very Low": "#FF1744",      # Red A400
             "No Data": "#757575",       # Grey 600
         },
         
         "General_SI": {
-            "Adaptation": "#00ADB5",                                     # Teal
-            "Mitigation": "#845EC2",                                     # Purple
-            "Replacement": "#F9B872",                                    # Orange
-            "Adaptation + Mitigation": "#00BFA5",                        # Teal A700
-            "Adaptation + Replacement": "#FF6D00",                       # Orange A700
-            "Mitigation + Replacement": "#7C4DFF",                       # Deep Purple A200
-            "Adaptation + Mitigation + Replacement": "#2E7D32",          # Green 800
+            "Adaptation": "#1E88E5",                                     # Blue 600
+            "Mitigation": "#8E24AA",                                     # Purple 600
+            "GW Sustainability": "#43A047",                              # Green 600
+            "Adaptation + Mitigation": "#FF6F00",                        # Orange A700
+            "Adaptation + GW Sustainability": "#D32F2F",                 # Red 700
+            "Mitigation + GW Sustainability": "#F57C00",                 # Orange 700
+            "Combined": "#6A1B9A",                                       # Purple 800
+            "All": "#00BCD4",                                            # Cyan 500 (bright and distinct)
             "No Data": "#757575",                                        # Grey 600
         }
     }
@@ -50,19 +51,35 @@ def get_category_colors(category):
 
 def get_ranking_order():
     """
-    Returns the order of rankings from worst to best for sorting
+    Returns the order of rankings from best to worst for sorting (Very High to Very Low)
     """
-    return ["Very Low", "Low", "Moderate", "High", "Very High", "No Data"]
+    return ["Very High", "High", "Moderate", "Low", "Very Low", "No Data"]
+
+def get_combined_order():
+    """
+    Returns the preferred order for Combined category items
+    """
+    return [
+        "Adaptation", 
+        "Mitigation", 
+        "GW Sustainability", 
+        "Adaptation + Mitigation", 
+        "Adaptation + GW Sustainability", 
+        "Mitigation + GW Sustainability", 
+        "Combined",
+        "All",
+        "No Data"
+    ]
 
 def get_ranking_color_gradient():
     """
     Returns a color gradient that can be used for consistent coloring across the app
     """
     return {
-        "Very Low": "#FF1744",      # Red A400
-        "Low": "#FF5722",           # Deep Orange 500
-        "Moderate": "#FF9800",      # Orange 500
-        "High": "#2196F3",          # Blue 500
         "Very High": "#0D47A1",     # Blue 900
+        "High": "#2196F3",          # Blue 500
+        "Moderate": "#FF9800",      # Orange 500
+        "Low": "#FF5722",           # Deep Orange 500
+        "Very Low": "#FF1744",      # Red A400
         "No Data": "#757575",       # Grey 600
     }

@@ -40,12 +40,16 @@ def is_valid_value(value):
 
 # Import the legend component for colors
 try:
-    from updated_legend_component import get_category_colors, get_ranking_color_gradient
+    from updated_legend_component import get_category_colors, get_ranking_color_gradient, get_ranking_order, get_combined_order
 except ImportError:
     def get_category_colors(category):
         return {}
     def get_ranking_color_gradient():
         return {}
+    def get_ranking_order():
+        return ["Very High", "High", "Moderate", "Low", "Very Low", "No Data"]
+    def get_combined_order():
+        return []
 
 # Set page configuration
 st.set_page_config(
@@ -318,8 +322,8 @@ DISTRICT_PARAMETER_MAPPING = {
 categories = {
     "Adapt": "Adaptation",
     "Mitigate": "Mitigation", 
-    "Replace": "Replacement",
-    "General_SI": "General SI"
+    "Replace": "GW Sustainability",
+    "General_SI": "Combined"
 }
 
 def get_status_class(status):
@@ -433,10 +437,10 @@ def render_district_dashboard(district_data, selected_category, district_text_di
                     # Create simplified map
                     m = folium.Map(
                         location=[center_lat, center_lon],
-                        zoom_start=8,
+                        zoom_start=11,
                         tiles="CartoDB dark_matter",
                         width='100%',
-                        height='200px'  # Reduced height for faster rendering
+                        height='300px'  # Increased height for better visibility
                     )
                     
                     # Add only district boundary - skip state boundary for speed
@@ -458,7 +462,7 @@ def render_district_dashboard(district_data, selected_category, district_text_di
                     m.fit_bounds([southwest, northeast], padding=[10, 10])
                     
                     # Use st_folium with minimal options for speed
-                    st_folium(m, height=200, width=None, returned_objects=[])
+                    st_folium(m, height=300, width=None, returned_objects=[])
                 else:
                     st.info("District map not available")
             except Exception as e:
@@ -470,7 +474,7 @@ def render_district_dashboard(district_data, selected_category, district_text_di
         for objective, label in [
             ('Adapt', 'Adaptation'),
             ('Mitigate', 'Mitigation'),
-            ('Replace', 'Replacement')
+            ('Replace', 'GW Sustainability')
         ]:
             status = district_data.get(objective, 'No Data')
             status_class = get_status_class(status)
@@ -743,11 +747,25 @@ def render_national_state_dashboard(filtered_gdf, selected_category, selected_st
             levels = list(stats['counts'].keys())
             percentages = [stats['counts'][level]['percentage'] for level in levels]
             
-            # Show distribution with updated colors
+            # Show distribution with updated colors and proper ordering
             category_colors = get_category_colors(selected_category)
             ranking_colors = get_ranking_color_gradient()
             
-            for level in levels:
+            # Sort levels based on category type
+            if selected_category == "General_SI":
+                # Use combined order for General_SI category
+                combined_order = get_combined_order()
+                ordered_levels = [level for level in combined_order if level in levels]
+                # Add any levels not in the predefined order at the end
+                ordered_levels.extend([level for level in levels if level not in combined_order])
+            else:
+                # Use ranking order for other categories (Very High to Very Low)
+                ranking_order = get_ranking_order()
+                ordered_levels = [level for level in ranking_order if level in levels]
+                # Add any levels not in the predefined order at the end
+                ordered_levels.extend([level for level in levels if level not in ranking_order])
+            
+            for level in ordered_levels:
                 percentage = stats['counts'][level]['percentage']
                 
                 if level in category_colors:
@@ -770,11 +788,13 @@ def render_national_state_dashboard(filtered_gdf, selected_category, selected_st
                 """, unsafe_allow_html=True)
             
             # Compact pie chart - only create if reasonable number of categories
-            if len(levels) <= 6:
+            if len(ordered_levels) <= 6:
                 try:
                     fig, ax = plt.subplots(figsize=(3.5, 3.5))
                     pie_colors = []
-                    for level in levels:
+                    pie_percentages = []
+                    for level in ordered_levels:
+                        pie_percentages.append(stats['counts'][level]['percentage'])
                         if level in category_colors:
                             pie_colors.append(category_colors[level])
                         elif level in ranking_colors:
@@ -783,7 +803,7 @@ def render_national_state_dashboard(filtered_gdf, selected_category, selected_st
                             pie_colors.append('#757575')
                     
                     wedges, texts, autotexts = ax.pie(
-                        percentages, 
+                        pie_percentages, 
                         colors=pie_colors,
                         autopct='%1.1f%%',
                         startangle=90,
